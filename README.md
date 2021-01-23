@@ -14,7 +14,7 @@ _____
 
 # PythonSession
 
-To run this online you could use the materials in this <p>Check out <a href="https://drive.google.com/drive/folders/19TFtBnOGpfgPtzHhqsqHPNX1eTs2DDRM?usp=sharing" target="_blank">folder</a>.</p>
+To run this online you could use the materials in this <a href="https://drive.google.com/drive/folders/19TFtBnOGpfgPtzHhqsqHPNX1eTs2DDRM?usp=sharing" target="_blank">folder</a>.
 
 We will cover a basic introduction to Python in two parts:
 
