@@ -4,9 +4,10 @@
 
 ### Prof. José Manuel Magallanes, PhD
 
+* Visiting Associate Professor, Evans School of Public Policy and Governance / Senior Data Science Fellow, eScience Institute, University of Washington, [magajm@uw.edu](mailto:magajm@uw.edu)
+
 * Associate Professor, Departamento de Ciencias Sociales, Pontificia Universidad Católica del Perú, [jmagallanes@pucp.edu.pe](mailto:jmagallanes@pucp.edu.pe)
 
-* Visiting Associate Professor, Evans School of Public Policy and Governance / Senior Data Science Fellow, eScience Institute, University of Washington, [magajm@uw.edu](mailto:magajm@uw.edu)
 _____
 
 
