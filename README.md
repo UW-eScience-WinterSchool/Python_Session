@@ -12,9 +12,8 @@ _____
 
 
 
-# PythonSession
+# Python Session
 
-To run this online you could use the materials in this [folder](https://drive.google.com/drive/folders/19TFtBnOGpfgPtzHhqsqHPNX1eTs2DDRM?usp=sharing)
 
 We will cover a basic introduction to Python in two parts:
 
