@@ -22,12 +22,16 @@ We will cover a basic introduction to Python in two parts:
 * Basic Data Structures:
   - Lists
   - Tuples
+
+* Complex Data Structures:
   - Dictionaries
-* Data Frames
+  - Data Frames
 
 ## Second Part: Data Pre Processing
 
 * Reading data from the cloud.
 * Basic data cleaning.
 * Data formatting.
-* Data integration and saving (from Python to R).
+* Data integration and saving.
+
+The material is in a **Jupyter notebook**, which you can open in [Anaconda](https://www.anaconda.com/products/individual) (you need to install it in your computer) or you can upload it into [GoogleColab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true).
