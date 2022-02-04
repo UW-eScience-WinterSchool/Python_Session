@@ -34,4 +34,4 @@ We will cover a basic introduction to Python in two parts:
 * Data formatting.
 * Data integration and saving.
 
-The material is in a **Jupyter notebook**, which you can open in [Anaconda](https://www.anaconda.com/products/individual (you need to install it in your computer) or you can upload it into [GoogleColab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true).
+The material is in a **Jupyter notebook**, which you can open in [Anaconda](https://www.anaconda.com/products/individual) (you need to install it in your computer) or you can upload it into [GoogleColab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true).
